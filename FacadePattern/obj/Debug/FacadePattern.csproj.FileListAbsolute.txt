@@ -1,0 +1,7 @@
+D:\AKKI_DEV\RND\DP\FacadePattern\FacadePattern\bin\Debug\FacadePattern.exe.config
+D:\AKKI_DEV\RND\DP\FacadePattern\FacadePattern\bin\Debug\FacadePattern.exe
+D:\AKKI_DEV\RND\DP\FacadePattern\FacadePattern\bin\Debug\FacadePattern.pdb
+D:\AKKI_DEV\RND\DP\FacadePattern\FacadePattern\obj\Debug\FacadePattern.csprojResolveAssemblyReference.cache
+D:\AKKI_DEV\RND\DP\FacadePattern\FacadePattern\obj\Debug\FacadePattern.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\DP\FacadePattern\FacadePattern\obj\Debug\FacadePattern.exe
+D:\AKKI_DEV\RND\DP\FacadePattern\FacadePattern\obj\Debug\FacadePattern.pdb
